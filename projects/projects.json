@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "E-Repair Hub Website",
+    "desc": "E- Repair Hub is a web application developed in Java using HTML, CSS, JAVASCRIPT, JAVA, JSP, Bootstrap, and MySQL.",
+    "image": "erepairhub",
+    "category": "web",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Vehicle Number Plate Detection ",
+    "desc": "Vehicle Number Plate Detection is a computer vision project that uses Python and OpenCV library to detect and recognize the number plates of vehicles in real time.",
+    "image": "vnpd",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
