@@ -10,7 +10,8 @@ Portfolio website built using HTML, CSS, JavaScript, and jQuery.
 ## Screenshots
 
 ![Screenshot](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/projects/portfolio1.jpg)
-
+![Screenshot1](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/screenshoot.jpg)
+![Screenshot1](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/screenshoot1.jpg)
 
 ## Authors
 
