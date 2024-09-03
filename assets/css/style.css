@@ -317,6 +317,10 @@ header .navbar ul li a:hover {
 
 /* hero media queries starts*/
 @media (max-width: 450px) {
+  .home .image {
+  position: relative;
+  top: 15vh;
+}
   .home .btn {
     margin: 4rem 0;
   }
