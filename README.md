@@ -7,17 +7,21 @@ Portfolio website built using HTML, CSS, JavaScript, and jQuery.
 
 <a href="https://chethansportfolio1.netlify.app" target="_blank">**Clicl here to View** </a>
 
-##Build With
+##📌 Build With
 
-![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
+![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000) 
+![CSS3](https://img.icons8.com/?size=50&id=21278&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=50&id=108784&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=50&id=g9mmSxx3SwAI&format=png&color=000000)
+![Jquery](https://img.icons8.com/?size=50&id=zh7me4lnKerp&format=png&color=000000)
 
-## Screenshots
+##📌 Screenshots
 
 ![Screenshot](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/projects/portfolio1.jpg)
 ![Screenshot1](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/screenshoot.jpg)
 ![Screenshot2](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/screenshot1.jpg)
 
-## Authors
+##📌 Authors
 
 - [@ChethanS24](https://www.github.com/ChethanS24)
 
