@@ -208,8 +208,6 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
-  position: relative;
-  top: 15vh;
   flex: 1 1 40rem;
   z-index: 1;
 }
@@ -335,6 +333,14 @@ header .navbar ul li a:hover {
     font-size: 2.2rem;
   }
 }
+
+@media (max-width: 600px) {
+.home .image {
+  position: relative;
+  top: 15vh;
+}
+}
+
 /* hero media queries ends*/
 /* hero section end */
 
