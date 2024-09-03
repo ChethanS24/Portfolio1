@@ -9,8 +9,7 @@ Portfolio website built using HTML, CSS, JavaScript, and jQuery.
 
 ##Build With
 
-* [![HTML5]](https://img.icons8.com/?size=80id=20909&format=png&color=000000)
-* [![JQuery][JQuery.com]][JQuery-url]
+![HTML5](https://img.icons8.com/?size=50&id=20909&format=png&color=000000)
 
 ## Screenshots
 
