@@ -222,7 +222,17 @@ header .navbar ul li a:hover{
 /* resume media queries ends */
 /* resume section ends */
 
-
+/* iframe starts */
+.iframe{
+  width: 70%; 
+  height: 1200px;
+}
+@media screen and (max-width: 600px) {
+  .iframe{
+    width: 70%; 
+    height: 1200px;
+  }
+}
 
 
 /* common media queries starts*/
