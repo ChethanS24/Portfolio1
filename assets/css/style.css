@@ -208,6 +208,8 @@ header .navbar ul li a:hover {
   z-index: 1;
 }
 .home .image {
+  position: relative;
+  top: 8vh;
   flex: 1 1 40rem;
   z-index: 1;
 }
