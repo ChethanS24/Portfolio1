@@ -7,6 +7,11 @@ Portfolio website built using HTML, CSS, JavaScript, and jQuery.
 
 <a href="https://chethansportfolio1.netlify.app" target="_blank">**Clicl here to View** </a>
 
+##Build With
+
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
+
 ## Screenshots
 
 ![Screenshot](https://github.com/ChethanS24/portfolio1/blob/main/assets/images/projects/portfolio1.jpg)
